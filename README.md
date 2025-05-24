@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lesley! <br/><a href="https://github.com/joshmadakor1">A Software Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">( FULL STACK )</a>
+<h1>Hi, I'm Lesley! <br/><a href="https://github.com/joshmadakor1">A Software Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">(FULL STACK)</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
