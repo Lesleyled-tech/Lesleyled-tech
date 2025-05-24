@@ -1,6 +1,6 @@
-<h1>Hi, I'm Lesley! <br/><a href="https://github.com/joshmadakor1">Software Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Information Technology Professional</a>
+<h1>Hi, I'm Lesley! <br/><a href="https://github.com/joshmadakor1">A Software Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">( FULL STACK )</a>
 
-<h2>👨‍💻 Software Development/engineering:</h2>
+<h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
