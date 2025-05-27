@@ -52,7 +52,7 @@
 ## 📫 **Let's Connect!**  
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
 - Portfolio: [Live Demo](https://yourportfolio.firebaseapp.com)  
-- Email: your.email@example.com  
+- Email: your.lesley@moov.life 
 
 ---
 
