@@ -1,12 +1,20 @@
-# 👋 Hi, I'm [Lesley]  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Lesley.  
 **Fullstack Software Engineer | AI Developer | Digital Solutions Architect**  
 
-🚀 Building intelligent web applications with generative AI and modern stacks  
+🚀 I Build intelligent web applications with generative AI and modern stacks  
 🔧 Bridging the gap between data, design, and deployment  
 
 ---
 
 ## 🛠️ **Technical Toolkit**  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Generative%20AI-430098?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+</p>
 
 ### **AI & Cloud**  
 - Generative AI (Amazon Bedrock, LLMs, NLP)  
@@ -28,34 +36,40 @@
 ## 🔥 **Featured Projects**  
 
 ### 1. [Generative AI Chatbot](https://github.com/yourusername/ai-chatbot)  
-   - Built with Amazon Bedrock for natural language processing  
-   - Features: Context-aware responses, custom knowledge integration  
+[![Amazon Bedrock](https://img.shields.io/badge/View_Project-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/yourusername/ai-chatbot)  
+- Built with Amazon Bedrock for natural language processing  
+- Features: Context-aware responses, custom knowledge integration  
 
 ### 2. [Data Dashboard](https://github.com/yourusername/data-viz)  
-   - Interactive visualization of real-time datasets  
-   - Tech: D3.js, Firebase, Python  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=firebase&logoColor=white)](https://your-dashboard.firebaseapp.com)  
+- Interactive visualization of real-time datasets  
+- Tech: D3.js, Firebase, Python  
 
 ### 3. [E-Commerce Platform](https://github.com/yourusername/ecommerce-app)  
-   - Full-stack solution with payment integration  
-   - Tech: React, Node.js, MongoDB  
-
----
-
-## 📜 **Certifications & Training**  
-- Google Digital Skills  
-- IT Essentials  
-- Building Generative AI Apps (Amazon Bedrock)  
-- Web Design & Data Analysis  
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/ecommerce-app)  
+- Full-stack solution with payment integration  
+- Tech: React, Node.js, MongoDB  
 
 ---
 
 ## 📫 **Let's Connect!**  
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
-- Portfolio: [Live Demo](https://yourportfolio.firebaseapp.com)  
-- Email: your.lesley@moov.life 
+<p align="center">
+  <a href="https://linkedin.com/in/Lesleyled-tech">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:lesley@moov.life">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://lesleyledwaba.pi">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white">
+  </a>
+</p>
 
 ---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lesleyled-tech&show_icons=true&theme=radical">
+  <img src="https://komarev.com/ghpvc/?username=Lesleyled-tech&label=Profile%20Views&color=blueviolet&style=flat-square">
+</p>
 
 *"Think → Create → Code"*  
