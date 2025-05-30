@@ -2,7 +2,16 @@
 **Fullstack Software Engineer | AI Developer | Digital Solutions Architect**  
 
 🚀 I Build intelligent web applications with generative AI and modern stacks  
-🔧 Bridging the gap between data, design, and deployment  
+🔧 Bridging the gap between data, design, and deployment. I’m a passionate technologist with expertise in full-stack development and generative AI, specializing in building intelligent applications with Amazon Bedrock, Firebase, and modern web stacks. 
+
+My hybrid skills bridge:  
+🔹 **AI Development**: Designing and deploying generative AI solutions (NLP, LLMs)  
+🔹 **Fullstack Engineering**: React, Node.js, Python, and cloud architectures  
+🔹 **Data & Design**: Data analysis, visualization, and user-centric web design  
+
+I thrive at the intersection of creativity and technical execution. My goal is to create systems that don’t just function—they anticipate and adapt.  
+
+Let’s connect if you’re building the future! 
 
 ---
 
