@@ -52,13 +52,8 @@ Let’s connect if you’re building the future!
 ### 2. [Data Dashboard](https://github.com/yourusername/data-viz)  
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=firebase&logoColor=white)](https://your-dashboard.firebaseapp.com)  
 - Interactive visualization of real-time datasets  
-- Tech: D3.js, Firebase, Python  
-
-### 3. [E-Commerce Platform](https://github.com/yourusername/ecommerce-app)  
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/ecommerce-app)  
-- Full-stack solution with payment integration  
-- Tech: React, Node.js, MongoDB  
-
+- Tech: D3.js, Firebase, Python
+  
 ---
 
 ## 📫 **Let's Connect!**  
