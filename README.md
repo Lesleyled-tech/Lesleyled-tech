@@ -45,7 +45,7 @@ Let’s connect if you’re building the future!
 ## 🔥 **Featured Projects**  
 
 ### 1. [Generative AI Chatbot](https://github.com/yourusername/ai-chatbot)  
-[![Amazon Bedrock](https://lovable.dev/projects/a7518d5f-e74a-4a0e-8eb4-cc1e8718632a)  
+[![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF5722?style=flat-square&logo=firebase&logoColor=white)  
 - Built with Amazon Bedrock for natural language processing  
 - Features: Context-aware responses, custom knowledge integration  
 
