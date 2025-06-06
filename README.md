@@ -49,7 +49,7 @@ Let’s connect if you’re building the future!
 - Built with Amazon Bedrock for natural language processing  
 - Features: Context-aware responses, custom knowledge integration  
 
-### 2. [Data Dashboard](https://github.com/yourusername/data-viz)  
+### 2. [Data Dashboard](https://github.com/Lesleyled-tech/stream-visual-nexus)  
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=firebase&logoColor=white)](https://your-dashboard.firebaseapp.com)  
 - Interactive visualization of real-time datasets  
 - Tech: D3.js, Firebase, Python
