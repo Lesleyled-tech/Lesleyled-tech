@@ -64,7 +64,7 @@ Let’s connect if you’re building the future!
   <a href="mailto:lesley@moov.life">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://lesleyledwaba.pi">
+  <a href="https://lesleyledwaba.life">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white">
   </a>
 </p>
