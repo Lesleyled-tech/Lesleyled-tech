@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Lesley.  
-**Fullstack Software Engineer | AI Developer | Digital Solutions Architect**  
+**Fullstack Software Developer | AI Solutions Engineer | Digital Solutions Architect**  
 
 🚀 I Build intelligent web applications with generative AI and modern stacks  
 🔧 Bridging the gap between data, design, and deployment. I’m a passionate technologist with expertise in full-stack development and generative AI, specializing in building intelligent applications with Amazon Bedrock, Firebase, and modern web stacks. 
